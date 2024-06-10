@@ -18,6 +18,8 @@
 2. all paragraphs
 3. share certain characteristics.
 
+
+```
 ---
 
 - One
